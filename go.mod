@@ -1,4 +1,4 @@
-module goauthentik.io/terraform-provider-authentik
+module github.com/vhdirk/terraform-provider-authentik
 
 go 1.22.7
 
