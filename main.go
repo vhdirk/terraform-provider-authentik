@@ -7,7 +7,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 
-	"github.com/vhdirk/terraform-provider-authentik/provider"
+	"goauthentik.io/terraform-provider-authentik/provider"
 )
 
 // these will be set by the goreleaser configuration
